@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "blog project backend",
   "license": "ISC",
-  "author": "",
+  "author": "Yash Kumar",
   "type": "module",
   "main": "index.js",
   "scripts": {
